@@ -1,0 +1,8 @@
+# Ignorar a pasta Arquivos em Forecast e Pendencia
+Forecast/Arquivos/
+Pendencia/Arquivos/
+
+# Ignorar arquivos específicos gerados pelo Excel ou temporários
+*.xlsx
+*.csv
+~$*.xlsx
